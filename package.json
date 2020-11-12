@@ -19,7 +19,7 @@
     "vue": "^2.1.10"
   },
   "dependencies": {
-    "marked": "^0.4.0",
+    "marked": "^0.3.18",
     "mavon-editor": "^2.6.9",
     "vue-router": "^3.0.1",
     "vue-scroll": "^2.1.7"
